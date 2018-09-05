@@ -7,7 +7,7 @@ Smartchatroom is a distributed, fault-tolerant technology that allows the creati
 of large-scale instant messaging applications. The server can reliably support
 thousands of simultaneous users on a single node and has been designed to
 provide exceptional standards of fault tolerance. The SmartChatRoom can be used 
-with or without internet, everyone can talk each other.
+with or without internet, everyone can talk with each other.
 
 Key Features
 ------------
